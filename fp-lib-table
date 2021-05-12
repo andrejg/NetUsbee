@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name AtariCartridge)(type KiCad)(uri /Users/andrejgerbec/Documents/Netusbee)(options "")(descr ""))
+  (lib (name NXP)(type KiCad)(uri /Users/andrejgerbec/Documents/Netusbee)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISP1160
+D Embedded Universal Serial Bus Host Controller
+K ISP1160 USB controller
+F https://datasheet.octopart.com/ISP1160BD01-Philips-datasheet-124592.pdf
+$ENDCMP
+#
+#End Doc Library

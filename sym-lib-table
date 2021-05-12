@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Realtek)(type Legacy)(uri ${KIPRJMOD}/Realtek.lib)(options "")(descr ""))
+  (lib (name Netusbee-rescue)(type Legacy)(uri ${KIPRJMOD}/Netusbee-rescue.lib)(options "")(descr ""))
+  (lib (name NXP)(type Legacy)(uri ${KIPRJMOD}/NXP.lib)(options "")(descr ""))
+)
